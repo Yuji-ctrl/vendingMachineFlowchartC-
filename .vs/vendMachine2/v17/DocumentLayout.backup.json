@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u6D45\u91CE\u88D5\u53F8\\source\\repos\\vendMachine2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602691FA-AB03-405D-9DB4-1846912DBAB3}|vendMachine2\\vendMachine2.csproj|c:\\users\\\u6D45\u91CE\u88D5\u53F8\\source\\repos\\vendmachine2\\vendmachine2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602691FA-AB03-405D-9DB4-1846912DBAB3}|vendMachine2\\vendMachine2.csproj|solutionrelative:vendmachine2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u6D45\u91CE\u88D5\u53F8\\source\\repos\\vendMachine2\\vendMachine2\\Program.cs",
+              "RelativeDocumentMoniker": "vendMachine2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u6D45\u91CE\u88D5\u53F8\\source\\repos\\vendMachine2\\vendMachine2\\Program.cs",
+              "RelativeToolTip": "vendMachine2\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:36:32.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\bin\Debug\vendMachine2.exe.config
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\bin\Debug\vendMachine2.exe
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\bin\Debug\vendMachine2.pdb
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\obj\Debug\vendMachine2.csproj.AssemblyReference.cache
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\obj\Debug\vendMachine2.csproj.CoreCompileInputs.cache
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\obj\Debug\vendMachine2.exe
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\obj\Debug\vendMachine2.pdb
+C:\Users\浅野裕司\source\repos\vendMachine2\vendMachine2\obj\Debug\vendMachine2.exe.config
